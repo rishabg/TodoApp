@@ -292,6 +292,14 @@ input.add-todo {
 	font-size: 12px;
 	text-decoration: none;
 	color: #fff; }
+	
+.github {
+  position: absolute;
+  bottom: 14px;
+  right: 55px;
+  color: #ccc;
+  font-size: 13px;
+}
  
 #html5_bg {
 	z-index: -1;
