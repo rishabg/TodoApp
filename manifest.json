@@ -1,0 +1,16 @@
+{
+"name": "Todo App",
+"description": "A simple yet beautiful Todo App.",
+"version": "1.0",
+  "icons": {
+    "128": "128.png"
+  },
+"app": {
+  "launch": {
+  "local_path": "index.html"
+  }
+},
+"permissions": [
+  "unlimitedStorage"
+]
+}
